@@ -3,11 +3,11 @@ div.custom-nav {
 	/*  */
 }
 
-body.worker-bg {
-	background-image: url("worker_statue.png");
+div.worker-bg {
+	/* background-image: url("worker_statue_lineart.png"); */
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: cover;
+	background-size: contain;
 	background-position: center;
 	z-index: 1;
 }
